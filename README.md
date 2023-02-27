@@ -1,5 +1,5 @@
 # bananagrams-localization
-Support for other languages within https://bananagrams.app
+Support for other languages within https://plantaingrams.app
 
 ## Contributing
 You may contribute your own language and I will attempt to integrate the language into https://bananagrams.app
