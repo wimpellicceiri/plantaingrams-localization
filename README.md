@@ -1,4 +1,4 @@
-# bananagrams-localization
+# plantaingrams-localization
 Support for other languages within https://plantaingrams.app
 
 ## Contributing
