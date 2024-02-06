@@ -2,7 +2,7 @@
 Support for other languages within https://plantaingrams.app
 
 ## Contributing
-You may contribute your own language and I will attempt to integrate the language into https://bananagrams.app
+You may contribute your own language and I will attempt to integrate the language into https://plantaingrams.app
 
 ### Step 1 - Add language code folder, if necessary
 If it does not exist already, add a folder beneath `lang` to indicate the language code you are supporting.
