@@ -12,3 +12,6 @@ Within the appropriate language code folder, e.g. `en`, add a `words` folder wit
 
 ### Step 3 - Add valid tile counts
 Also within the appropriate language code folder, e.g. `en`, add two files representing the tile count for single player games and multiplayer games. This should be a JSON object with a letter and corresponding count for that letter.
+
+#### NOTE
+There is a Python script that is available to help with generating the words located [here](lang/pt/script.py). Thank you to @eduardohenriquearnold for contributing this.
